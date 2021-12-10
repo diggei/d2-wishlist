@@ -49,6 +49,7 @@ dimwishlist:item=2481758391&perks=1561002382,3643424744,3511092054,2357520979
 
 // BxR-55 Battler
 //notes:diggei - Mod: Counterbalance / Autofire | Top rolls: Perpetual motion + Kill clip / Killing wind + Elemental capacitor / Demolitionist + Blunt Exec.Rounds + Top tree arcstrider / Perpetual motion + Eye of the storm
+dimwishlist:item=2708806099
 dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,1015611457
 dimwishlist:item=2708806099&perks=839105230,3142289711,3523296417,1015611457
 dimwishlist:item=2708806099&perks=839105230,3177308360,3523296417,1015611457
