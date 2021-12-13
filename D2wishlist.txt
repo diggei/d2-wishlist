@@ -522,6 +522,7 @@ dimwishlist:item=3717177717&perks=2450788523,1015611457
 ////////////////////////////// Swords
 // Spade
 //notes:diggei - 
+dimwishlist:item=-69420&perks=2077819806
 dimwishlist:item=-69420&perks=938542991,269888150,1749209109,1546637391
 dimwishlist:item=-69420&perks=2827049491,269888150,1749209109,1546637391
 dimwishlist:item=-69420&perks=938542991,269888150,2077819806,1546637391
