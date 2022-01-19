@@ -806,3 +806,40 @@ dimwishlist:item=548958835&perks=1840239774,732557052,2450788523,438098033
 dimwishlist:item=548958835&perks=4090651448,732557052,2450788523,438098033
 
 
+////////////////////////////// Gunsmith mats dismantle 
+
+// Stochastic Variable
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=2272470786&perks=2779035018,2458213969
+
+// True Prophecy
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=2742838700&perks=2846385770,1954620775
+dimwishlist:item=2742838700&perks=47981717,1954620775
+dimwishlist:item=2742838700&perks=2846385770,3038247973
+dimwishlist:item=2742838700&perks=47981717,3038247973
+
+// First in Last out 
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+// Seventh Seraph Officer Revolver
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=3037520408&perks=1354429876,1546637391
+
+// Crown-Splitter
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=2782325302&perks=1749209109,1546637391
+dimwishlist:item=2782325302&perks=1749209109,3913600130
+
+// Seventh Seraph VY-7
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=766323545&perks=2010801679,1546637391
+dimwishlist:item=766323545&perks=1354429876,1546637391
+dimwishlist:item=766323545&perks=2010801679,2779035018
+dimwishlist:item=766323545&perks=1354429876,2779035018
+
+// Night Watch
+//notes:diggei - Gunsmith mats dismantle 
+dimwishlist:item=3504336176&perks=1820235745,3038247973
+dimwishlist:item=3504336176&perks=1168162263,3038247973
