@@ -15,8 +15,9 @@ description:
 ////////////////////////////// Grenade Launcher
 // Pardon Our Dust
 //notes:diggei - MW: Blast radius / Mod: Quick access sling, Freehand / Roll: Volatile Launch, Blinding Grenades, Auto-Loading Holster, Danger Zone
-dimwishlist:item=3849810018&perks=
+dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,960810156
 dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
+dimwishlist:item=3849810018&perks=3032599245,3300816228
 
 
 
