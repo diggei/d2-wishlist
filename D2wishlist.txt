@@ -19,6 +19,11 @@ dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,960810156
 dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
 dimwishlist:item=3849810018&perks=3032599245,3300816228
 
+// Deafening Whisper
+//notes:diggei - 
+dimwishlist:item=981718087&perks=1556840489,3300816228
+dimwishlist:item=981718087&perks=2010801679,3300816228
+dimwishlist:item=981718087&perks=3436462433,3300816228
 
 
 ////////////////////////////// Pulse
@@ -493,6 +498,13 @@ dimwishlist:item=2742838700&perks=3643424744,3425386926,758092021
 dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770
 dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770
 
+// Hawkmoon
+//notes:diggei - PVP
+dimwishlist:item=3856705927&perks=2846385770
+dimwishlist:item=3856705927&perks=699525795
+dimwishlist:item=3856705927&perks=588594999
+dimwishlist:item=3856705927&perks=47981717
+dimwishlist:item=3856705927&perks=3436462433
 
 
 ////////////////////////////// Autorifle
