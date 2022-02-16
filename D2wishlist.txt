@@ -633,11 +633,12 @@ dimwishlist:item=829330711&perks=3230963543,2846385770,124408337
 
 ////////////////////////////// Submachine Gun
 // Multimach CCX
-//notes:diggei -
+//notes:diggei - Killing Wind, Kill Clip / Model 8 Red, Accurized, Dynamic Sway, Iron Grip
+dimwishlist:item=3717177717&perks=2450788523,1015611457
+dimwishlist:item=3717177717&perks=1359896290,1015611457
+dimwishlist:item=3717177717&perks=1359896290,11551321
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,11551321
-dimwishlist:item=3717177717&perks=2450788523,1015611457
-
 
 
 ////////////////////////////// Swords
