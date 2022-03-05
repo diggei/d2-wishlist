@@ -551,7 +551,7 @@ dimwishlist:item=3856705927&perks=47981717
 dimwishlist:item=3856705927&perks=3436462433
 
 // Cantata-57
-//notes:diggei - sblocca anche il perk sull'artefatto.
+//notes:diggei - sblocca anche il perk sull'artefatto. Eye of the storm + opening shot / 
 dimwishlist:item=372697604&perks=3142289711,247725512,588594999
 dimwishlist:item=372697604&perks=3142289711,1570042021,588594999
 dimwishlist:item=372697604&perks=3142289711,671806388,588594999
