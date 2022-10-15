@@ -740,6 +740,14 @@ dimwishlist:item=602618796&perks=1820235745,3425386926
 dimwishlist:item=602618796&perks=1820235745,3425386926
 dimwishlist:item=602618796&perks=1820235745,11612903
 
+// BrayTech Werewolf
+//notes:diggei - stability
+dimwishlist:item=528834068&perks=839105230,1885400500,1359896290,699525795
+dimwishlist:item=528834068&perks=839105230,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=,1546637391
+dimwishlist:item=528834068&perks=,1645158859,1546637391
+dimwishlist:item=528834068&perks=,1359896290,1546637391
+
 
 
 ////////////////////////////// Sniper
