@@ -25,6 +25,10 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=2010801679,3300816228
 dimwishlist:item=981718087&perks=3436462433,3300816228
 
+// Forbearance
+//notes:diggei - ambitious, chain reaction
+dimwishlist:item=613334176&perks=,2010801679,2396489472
+
 
 ////////////////////////////// Pulse
 // The Messenger
